@@ -33,4 +33,5 @@ A beginner-friendly calculator app built using **Python** and the **Tkinter** GU
 
 
 ## 📸 Screenshot 
-(screenshot.png)
+![Calculator Screenshot](screenshot.png)
+
