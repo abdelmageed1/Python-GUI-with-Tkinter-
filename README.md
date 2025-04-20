@@ -35,3 +35,19 @@ A beginner-friendly calculator app built using **Python** and the **Tkinter** GU
 ## 📸 Screenshot 
 ![Calculator Screenshot](screenshot.png)
 
+## 💻 Convert to Windows Executable (.exe)
+
+You can convert the script into a standalone Windows executable using **PyInstaller**.
+
+### 📦 Steps:
+
+1. **Install PyInstaller:**
+  ```bash
+
+   !pip install pyinstaller 
+   # Create the executable:
+   !pyinstaller calculator.py --onefile -w
+
+
+
+
